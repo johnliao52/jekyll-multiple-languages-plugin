@@ -1,0 +1,10 @@
+name: Flex
+markdown: redcarpet
+highlighter: pygments
+#pygments: true
+
+
+baseurl: ""
+permalink: /:title/
+
+languages: ["it", "en", "es"]
